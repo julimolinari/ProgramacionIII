@@ -1,0 +1,11 @@
+{"patente":"aaa123","fecha":{"sec":1601333611,"usec":138239,"minuteswest":180,"dsttime":0},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa123","fecha":{"seconds":0,"minutes":55,"hours":19,"mday":28,"wday":1,"mon":9,"year":2020,"yday":271,"weekday":"Monday","month":"September","0":1601333700},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa124","fecha":{"seconds":11,"minutes":8,"hours":20,"mday":28,"wday":1,"mon":9,"year":2020,"yday":271,"weekday":"Monday","month":"September","0":1601334491},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa124","fecha":{"seconds":47,"minutes":9,"hours":20,"mday":28,"wday":1,"mon":9,"year":2020,"yday":271,"weekday":"Monday","month":"September","0":1601334587},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa124","fecha":{"seconds":1,"minutes":11,"hours":20,"mday":28,"wday":1,"mon":9,"year":2020,"yday":271,"weekday":"Monday","month":"September","0":1601334661},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa123","fecha":{"sec":1601333611,"usec":138239,"minuteswest":180,"dsttime":0},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa123","fecha":{"sec":1601333611,"usec":138239,"minuteswest":180,"dsttime":0},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa123","fecha":{"sec":1601333611,"usec":138239,"minuteswest":180,"dsttime":0},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa123","fecha":{"sec":1601333611,"usec":138239,"minuteswest":180,"dsttime":0},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa123","fecha":{"sec":1601333611,"usec":138239,"minuteswest":180,"dsttime":0},"tipo":"hora","email":"user@mail.com","fecha_egreso":null,"importe":null}
+{"patente":"aaa123","fecha":{"sec":1601333611,"usec":138239,"minuteswest":180,"dsttime":0},"tipo":"hora","email":"user@mail.com","fecha_egreso":{"seconds":1,"minutes":31,"hours":20,"mday":28,"wday":1,"mon":9,"year":2020,"yday":271,"weekday":"Monday","month":"September","0":1601335861},"importe":null}
